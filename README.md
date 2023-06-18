@@ -1,14 +1,7 @@
-[
-  {
-    "پیام": "سلام",
-    "تصویر": "https://iranmojo.com/wp-content/uploads/2022/10/CallOfDuty-380x213.jpg"
-  },
-  {
-    "پیام": "خوبی",
-    "تصویر": "https://iranmojo.com/wp-content/uploads/2022/10/CallOfDuty-380x213.jpg"
-  },
-  {
-    "پیام": "ممنون",
-    "تصویر": "https://iranmojo.com/wp-content/uploads/2022/10/CallOfDuty-380x213.jpg"
-  }
-]
+{
+  "نام": "mega shop",
+  "درباره": "خرید بصرفه",
+  "تیک": "",
+  "عکس": "https://raw.githubusercontent.com/Megadetasupport/Support.mega/main/README.md",
+  "نوع": "خرید جم شاپ"
+}
