@@ -2,7 +2,7 @@
   {
     "name": "amir",
     "prof": "https://www.androidtime.com/wp-content/uploads/2021/09/NumberBook-icon-300x300.png",
-    "tik": "tk",
-    "bio": "خوبی چخبر داش"
+    "tik": "tik",
+    "bio": "خوبهستی مامان داش"
   }
 ]
