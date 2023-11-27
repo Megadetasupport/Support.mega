@@ -2,7 +2,7 @@
   {
     "name": "امیر",
     "tik1": "ok",
-    "biu": "سلام",
+    "biu": "سکلام",
     "prof": "https://uploadkon.ir/uploads/362727_23۲۰۲۲۰۵۲۹-۱۴۳۱۰۰.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
