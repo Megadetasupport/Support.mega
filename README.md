@@ -3,7 +3,7 @@
     "name": "امیر",
     "tik1": "ok",
     "biu": "سلام",
-    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
+    "prof": "https://uploadkon.ir/uploads/362727_23۲۰۲۲۰۵۲۹-۱۴۳۱۰۰.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
   {
