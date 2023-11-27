@@ -7,7 +7,7 @@
   },
   {
     "name": "milad",
-    "tik1": "on",
+    "tik1": "ok",
     "biu": "سلاfgم",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png"
   }
