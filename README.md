@@ -1,8 +1,14 @@
 [
   {
-    "prof": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pinto_Arabian.jpg/500px-Pinto_Arabian.jpg",
-    "biu": "انجام تمامی خدمات فری فایر cv انلاین",
-    "name": "wineston shop",
-    "tik1": "ok"
+    "name": "milad",
+    "tik1": "on",
+    "biu": "سلام",
+    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png"
+  },
+  {
+    "name": "amit",
+    "tik1": "off",
+    "biu": "سلام خوبی",
+    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png"
   }
 ]
