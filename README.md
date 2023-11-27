@@ -1,23 +1,23 @@
 [
   {
-    "name": "امیر",
+    "name": "پشتیبانی کیو گیم",
     "tik1": "ok",
-    "biu": "سکلام",
+    "biu": "برای ارتباط با ما کلیک کنید",
     "prof": "https://uploadkon.ir/uploads/362727_23۲۰۲۲۰۵۲۹-۱۴۳۱۰۰.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "حسین",
+    "name": "میلاد وینستون",
     "tik1": "o",
-    "biu": "سلام",
-    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
+    "biu": "فروش جم به صورت سریع",
+    "prof": "https://uploadkon.ir/uploads/025727_23IMG-20231127-214011-023.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "تست",
+    "name": "کیل مستر شاپ",
     "tik1": "o",
-    "biu": "سلام",
-    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
+    "biu": "انجام معامله و فروش اکانت",
+    "prof": "https://uploadkon.ir/uploads/6dd227_23IMG-20231127-213956-637.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
   {
