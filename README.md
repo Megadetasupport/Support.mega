@@ -1,42 +1,42 @@
 [
   {
-    "name": "milad",
-    "tik1": "on",
-    "biu": "سلام",
-    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
-    "urll": "https://rubika.ir/ferrino"
-  },
-  {
-    "name": "milad",
+    "name": "امیر",
     "tik1": "ok",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "milad",
-    "tik1": "on",
+    "name": "حسین",
+    "tik1": "o",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "milad",
+    "name": "تست",
+    "tik1": "o",
+    "biu": "سلام",
+    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
+    "urll": "https://rubika.ir/ferrino"
+  },
+  {
+    "name": "test",
     "tik1": "ok",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "milad",
-    "tik1": "on",
+    "name": "خوبی",
+    "tik1": "o",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "milad",
-    "tik1": "ok",
+    "name": "wert",
+    "tik1": "o",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino_ir"
