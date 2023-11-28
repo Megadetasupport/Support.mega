@@ -15,7 +15,7 @@
   },
   {
     "name": "کیل مستر شاپ",
-    "tik1": "o",
+    "tik1": "ok",
     "biu": "انجام معامله و فروش اکانت",
     "prof": "https://uploadkon.ir/uploads/6dd227_23IMG-20231127-213956-637.jpg",
     "urll": "https://rubika.ir/ferrino"
