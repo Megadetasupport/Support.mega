@@ -22,7 +22,7 @@
   },
   {
     "name": "test",
-    "tik1": "ok",
+    "tik1": "o",
     "biu": "سلام",
     "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
     "urll": "https://rubika.ir/ferrino"
