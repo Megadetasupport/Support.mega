@@ -21,10 +21,10 @@
     "urll": "https://rubika.ir/ferrino"
   },
   {
-    "name": "test",
+    "name": "ＳＡＡＷＭＩ Shop",
     "tik1": "o",
-    "biu": "سلام",
-    "prof": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_160x56dp.png",
+    "biu": "واسطه اکانت",
+    "prof": "https://uploadkon.ir/uploads/93ad28_23IMG-20231128-144451-367.jpg",
     "urll": "https://rubika.ir/ferrino"
   },
   {
