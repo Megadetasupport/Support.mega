@@ -15,7 +15,7 @@
   },
   {
     "name": "کیل مستر شاپ",
-    "tik1": "ok",
+    "tik1": "o",
     "biu": "انجام معامله و فروش اکانت",
     "prof": "https://uploadkon.ir/uploads/6dd227_23IMG-20231127-213956-637.jpg",
     "urll": "https://rubika.ir/lM_KIILMESTER"
