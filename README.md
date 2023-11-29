@@ -22,7 +22,7 @@
   },
   {
     "name": "ＳＡＡＷＭＩ Shop",
-    "tik1": "o",
+    "tik1": "ok",
     "biu": "واسطه اکانت",
     "prof": "https://uploadkon.ir/uploads/93ad28_23IMG-20231128-144451-367.jpg",
     "urll": "https://rubika.ir/admin_kilmesterm"
