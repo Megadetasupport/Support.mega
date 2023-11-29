@@ -8,14 +8,14 @@
   },
   {
     "name": "میلاد وینستون",
-    "tik1": "ok",
+    "tik1": "o",
     "biu": "فروش جم به صورت سریع",
     "prof": "https://uploadkon.ir/uploads/025727_23IMG-20231127-214011-023.jpg",
     "urll": "https://rubika.ir/winston_milad"
   },
   {
     "name": "کیل مستر شاپ",
-    "tik1": "ok",
+    "tik1": "o",
     "biu": "انجام معامله و فروش اکانت",
     "prof": "https://uploadkon.ir/uploads/6dd227_23IMG-20231127-213956-637.jpg",
     "urll": "https://rubika.ir/lM_KIILMESTER"
